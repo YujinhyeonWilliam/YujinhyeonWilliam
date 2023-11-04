@@ -7,4 +7,4 @@
 ### Thanks For Coming
 
 - ⚡ Former Unity Game Developer (2yrs)
-- 🌱 teaching myself C++, Unreal, Algorithm, Data Structure, Computer Science 
+- 🌱 teaching myself C++, Unreal, Algorithm, Data Structure, Computer Science, Computer Graphics
