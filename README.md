@@ -1,21 +1,10 @@
-<div align=center>
- 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujinhyeonWilliam%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
 
-### Thanks For Coming
-
-- ⚡ Former Unity Game Developer (2yrs)
-- 🌱 teaching myself C++, Unreal, Algorithm, Data Structure, Computer Graphics
-
-![Jinhyeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YujinhyeonWilliam&show_icons=true&theme=vision-friendly-dark) 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YujinhyeonWilliam&layout=compact&theme=vision-friendly-dark)
-
-## 💻 Dev Diary 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="https://yjhdevelopdiary.tistory.com/">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
+[Recent Blog Posts]
+[2024/03/24 - [C++] 동적 미로 생성, 우수법 탈출 AI](https://yjhdevelopdiary.tistory.com/192) <br/>
+[2024/03/11 - [ShadeLab] Triplanar](https://yjhdevelopdiary.tistory.com/191) <br/>
+[2024/03/11 - [ShaderLab] Water](https://yjhdevelopdiary.tistory.com/190) <br/>
+[2024/03/10 - [ShaderLab] Refraction](https://yjhdevelopdiary.tistory.com/189) <br/>
+[2024/03/10 - [ShaderLab] Matcap](https://yjhdevelopdiary.tistory.com/188) <br/>
+[2024/03/06 - [ShaderLab] Dissolve](https://yjhdevelopdiary.tistory.com/187) <br/>
+[2024/03/06 - [ShaderLab] 2Pass AlphaBlending](https://yjhdevelopdiary.tistory.com/186) <br/>
+[2024/03/06 - [ShaderLab] 알파 블렌딩 (Alpha Blending)](https://yjhdevelopdiary.tistory.com/185) <br/>
