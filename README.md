@@ -8,3 +8,14 @@
 
 - ⚡ Former Unity Game Developer (2yrs)
 - 🌱 teaching myself C++, Unreal, Algorithm, Data Structure, Computer Graphics
+
+![Jinhyeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YujinhyeonWilliam&show_icons=true&theme=vision-friendly-dark) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YujinhyeonWilliam&layout=compact&theme=vision-friendly-dark)
+
+## 💻 DEV's log 💻
+<div style="display:flex; flex-direction:row;">
+    <a href="https://yjhdevelopdiary.tistory.com/">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+  
