@@ -13,7 +13,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YujinhyeonWilliam&layout=compact&theme=vision-friendly-dark)
 
-## 💻 DEV's log 💻
+## 💻 Dev Diary 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://yjhdevelopdiary.tistory.com/">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
