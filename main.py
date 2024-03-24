@@ -23,13 +23,13 @@ markdown_text = """
 <br/>
 
 ## 📚 Currently Studying
-<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/AWS-2B283A.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img src="https://img.shields.io/badge/Unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"> <img src="https://img.shields.io/badge/AWS-2B283A.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> 
 
 <br/>
 
 ## 🔧 Skills Available
 #### [Main]
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
 
 #### [Sub]
 <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34"> <img src="https://img.shields.io/badge/BigQuery-005571?style=for-the-badge&logo=googlebigquery"> <img src="https://img.shields.io/badge/Google Analytics-414141?style=for-the-badge&logo=googleanalytics"> 
