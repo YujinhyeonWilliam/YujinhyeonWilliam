@@ -36,6 +36,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a> <br/>
 
+[2024/03/29 - [Algorithm] A* 알고리즘](https://yjhdevelopdiary.tistory.com/197) <br/>
 [2024/03/25 - [Algorithm] 다익스트라(Dijikstra) 알고리즘](https://yjhdevelopdiary.tistory.com/196) <br/>
 [2024/03/25 - [Algorithm] BFS, DFS](https://yjhdevelopdiary.tistory.com/195) <br/>
 [2024/03/25 - [자료구조] 그래프 (Graph)](https://yjhdevelopdiary.tistory.com/194) <br/>
@@ -43,5 +44,4 @@
 [2024/03/24 - [C++] 동적 미로 생성, 우수법 탈출 AI](https://yjhdevelopdiary.tistory.com/192) <br/>
 [2024/03/11 - [ShadeLab] Triplanar](https://yjhdevelopdiary.tistory.com/191) <br/>
 [2024/03/11 - [ShaderLab] Water](https://yjhdevelopdiary.tistory.com/190) <br/>
-[2024/03/10 - [ShaderLab] Refraction](https://yjhdevelopdiary.tistory.com/189) <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
