@@ -10,8 +10,6 @@
 
 - ⚡ Former Unity Game Developer (2yrs)
 
-![Jinhyeon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YujinhyeonWilliam&show_icons=true&theme=vision-friendly-dark) 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YujinhyeonWilliam&layout=compact&theme=vision-friendly-dark)
 
 <br/>
