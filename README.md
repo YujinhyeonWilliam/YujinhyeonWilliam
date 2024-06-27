@@ -34,6 +34,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a> <br/>
 
+[2024/06/26 - [Unreal5] halfway through leveling map for Zombie game](https://yjhdevelopdiary.tistory.com/224) <br/>
 [2024/06/11 - [Unreal5] Openworld Leveling Practice : AutoLandscape Material](https://yjhdevelopdiary.tistory.com/223) <br/>
 [2024/05/22 - [Unreal5] Studying for Leveling : Last Map](https://yjhdevelopdiary.tistory.com/222) <br/>
 [2024/05/18 - [Unreal5] Studying for Leveling : Map2](https://yjhdevelopdiary.tistory.com/221) <br/>
@@ -41,5 +42,4 @@
 [2024/05/13 - [Unreal5] Mini Project : Arena Battle](https://yjhdevelopdiary.tistory.com/219) <br/>
 [2024/05/05 - [Unreal] TArray, TSet](https://yjhdevelopdiary.tistory.com/218) <br/>
 [2024/05/02 - [Unreal] 언리얼 오브젝트, 리플렉션 시스템, Assertion](https://yjhdevelopdiary.tistory.com/217) <br/>
-[2024/04/25 - [Unreal5] Mini Project : Simple Shooter](https://yjhdevelopdiary.tistory.com/216) <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
